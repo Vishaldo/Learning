@@ -11,9 +11,9 @@ class Program {
             int age = var1.nextInt();
             System.out.print("Address: ");
             String Address = var2.nextLine();
-            System.out.print("Name : " + name);
-            System.out.print("Age : " + age);
-            System.out.print("Address : " + Address);
+            System.out.println("Name : " + name);
+            System.out.println("Age : " + age);
+            System.out.println("Address : " + Address);
 
         }
 
