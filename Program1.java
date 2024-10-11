@@ -11,9 +11,9 @@ class Program1{
         System.out.print("Enter c : ");
         int c = scan.nextInt();
         int d = a*b*c;
-        System.out.println(d);
-        int e = a+b+c+d;
-        System.out.println(e);
+        System.out.println("d" + d);
+        int e = a+b+c;
+        System.out.println("e" + e);
 
 }
 
