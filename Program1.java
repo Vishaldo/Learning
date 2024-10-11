@@ -8,9 +8,8 @@ class Program1{
         int a = scan.nextInt();
         System.out.print("Enter b : ");
         int b = scan.nextInt();
-        System.out.println("Enter c : ");
+        System.out.print("Enter c : ");
         int c = scan.nextInt();
-        scan.nextInt();
         int d = a*b*c;
         System.out.println(d);
         int e = a+b+c+d;
